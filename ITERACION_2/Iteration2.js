@@ -8,14 +8,14 @@
 // let div = document.createElement("div") //Con las variables, añadimos a ellas elemenos HTML (div, p) 
 // let p = document.createElement("p")
 // document.body.appendChild(div)
-// divTwo.appendChild(p)
+// div.appendChild(p)
 
 //! 2.3 Inserta dinamicamente en un html un div que contenga 6 p utilizando un loop con javascript.
 
 // let div = document.createElement("div")
 // for (let i = 0; i < 6; i++) {
 //     let p = document.createElement("p")
-//     divThree.appendChild(p)
+//     div.appendChild(p)
 // }
 
 // document.body.appendChild(div)
